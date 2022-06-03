@@ -21,7 +21,7 @@ PYTHON SCRIPT OVERVIEW:
 
 RUN:
 
-   python graph.py
-   python sudoku_connections.py
+   python graph.py,
+   python sudoku_connections.py,
    python main.py
    
