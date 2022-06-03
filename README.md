@@ -16,12 +16,16 @@ REQUIREMENTS:
 PYTHON SCRIPT OVERVIEW:
 
    graph.py - It create nodes and vertices of the graph
+   
    sudoku_connections.py - It manages graph and connect all the nodes in SUDOKU Grid format
+   
    main.py – It will show input and output grid (SUDOKU form)
 
 RUN:
 
-   python graph.py,
-   python sudoku_connections.py,
+   python graph.py
+   
+   python sudoku_connections.py
+   
    python main.py
    
